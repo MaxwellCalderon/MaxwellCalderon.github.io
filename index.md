@@ -17,3 +17,6 @@ If you are publishing from a branch, changes to your site are published automati
     <a href="/media/cc0-videos/flower.mp4">MP4</a>
     video.
 </video>
+
+
+Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. For more information, see
