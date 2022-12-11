@@ -1,6 +1,6 @@
 <h1>Ok Linkedin Learning Course<h1/>
 
-    If you’re a developer working in any sort of team environment, tracking changes to a project’s source code is a vitally important aspect of the job. Git is one of the most popular tools for tracking and managing code, and there are a number of Git workflows that are commonly used by development teams for collaboration and management. In this course, Kevin Bowersox details several Git workflows that are popular with development teams. He details the main concepts behind these workflows, and shows how to choose the one that suits your needs—whether its Git Flow, GitHub Flow, or trunk-based development—to work more smoothly and eliminate pain points. If you’re looking for hands-on experience so you can work more effectively and collaboratively in Git, join Kevin in this course.
+If you are publishing from a branch, changes to your site are published automatically when the changes are merged into your site's publishing source. If you are publishing from a custom GitHub Actions workflow, changes are published whenever your workflow is triggered (typically by a push to the default branch). If you want to preview your changes first, you can make the changes locally instead of on GitHub. Then, test your site locally. For more information, see "Testing your GitHub Pages site locally with Jekyll."
 
 
 <video controls width="250">
